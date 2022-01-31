@@ -6,7 +6,7 @@ Here are my solutions for the Canadian Computing Contest Problems. I attempted t
 | 2021      | J1, J2, J3, S1 |
 | 2020      | J1, J2, J3, J4, S1 |
 | 2019      | J1, J2, J3, J4/S1, S2 |
-| 2018      | J1, J2, J4/S1 |
+| 2018      | J1, J2, S1 |
 
 ## Table of Problems Solved (**Java**):
 | Year | Problems Solved |
